@@ -7,10 +7,10 @@
 }
 
 .cheese {
-  height: 15px;
-  width: 65%;
+  height: 60px;
+  width: 80%;
   background: #f2c120;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+  border-bottom: solid 2px rgba(187, 37, 37, 0.1);
 }
 
 .tomato {
